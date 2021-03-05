@@ -14,12 +14,12 @@ function App() {
      <Router>
       <Navbar />
 	   <Switch>
-      		<Route path='/portfolio' exact component={Home} />
-		<Route path='/aboutMe' component={AboutMe} />
-		<Route path='/contacts' component={Contacts} />
-		<Route path='/myProjects' component={MyProjects} />
-		<Route path='/education' component={Education} />
-		<Route path='/skills' component={Skills} />
+      		<Route path='/portfolio/' exact component={Home} />
+		<Route path='/portfolio/aboutMe' component={AboutMe} />
+		<Route path='/portfolio/contacts' component={Contacts} />
+		<Route path='/portfolio/myProjects' component={MyProjects} />
+		<Route path='/portfolio/education' component={Education} />
+		<Route path='/portfolio/skills' component={Skills} />
 	   </Switch>
       <Footer />
          </Router>

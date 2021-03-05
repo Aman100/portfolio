@@ -30,11 +30,11 @@ return (
    <div className='text'>PORTFOLIO</div>
    <div className='child-flex'>
 	<ul className={this.state.toggle ? 'ulstyle active' : 'ulstyle'}>
-		<li className='nav-li'><Link to="/myProjects" className='nav-link' onClick={this.closeMobileMenu}>Projects</Link></li>
-		<li className='nav-li'><Link to="/skills" className='nav-link' onClick={this.closeMobileMenu}>Skills</Link></li>
-		<li className='nav-li'><Link to="/education" className='nav-link' onClick={this.closeMobileMenu}>Education</Link></li>
-		<li className='nav-li'><Link to="/contacts" className='nav-link' onClick={this.closeMobileMenu}>Contacts</Link></li>
-		<li className='nav-li'><Link to="/aboutMe" className='nav-link' onClick={this.closeMobileMenu}>About Me</Link></li>
+		<li className='nav-li'><Link to="/portfolio/myProjects" className='nav-link' onClick={this.closeMobileMenu}>Projects</Link></li>
+		<li className='nav-li'><Link to="/portfolio/skills" className='nav-link' onClick={this.closeMobileMenu}>Skills</Link></li>
+		<li className='nav-li'><Link to="/portfolio/education" className='nav-link' onClick={this.closeMobileMenu}>Education</Link></li>
+		<li className='nav-li'><Link to="/portfolio/contacts" className='nav-link' onClick={this.closeMobileMenu}>Contacts</Link></li>
+		<li className='nav-li'><Link to="/portfolio/aboutMe" className='nav-link' onClick={this.closeMobileMenu}>About Me</Link></li>
 	</ul>
    </div>
    <div className='menu-icon' onClick={this.toggler}>
