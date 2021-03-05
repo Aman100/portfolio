@@ -4,4 +4,8 @@ top:10px;
 left:20px;
 font-size:20px;
 height:150px;
+border-collapse: collapse;
+border-spacing: 0;
+width: 95%;
+border: 1px solid #ddd;
 }

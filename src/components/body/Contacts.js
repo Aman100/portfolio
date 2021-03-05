@@ -11,7 +11,7 @@ textDecoration:"underline"
 return (
 <div className='div'>
 <h1 style={mystyle}>Contacts</h1>
-<table className='tableStyle' border='0'>
+<table className='tableStyle' border='1'>
 <tr><td>Email</td><td>amanwarudkar1@gmail.com</td></tr>
 <tr><td>Mobile Number</td><td>+91-9109658601</td></tr>
 <tr><td>Github</td><td><a href='https://github.com/Aman100'>https://github.com/Aman100</a></td></tr>

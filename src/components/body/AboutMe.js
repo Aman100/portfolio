@@ -16,6 +16,8 @@ Hi, my name is Aman Warudkar, I am straightforward and passionate about designin
 
 Apart from technological aspect, I love Travelling which enables me to Explore the world better . I like playing Video-Games, Chess, Cricket.
 </div>
+<div style={{width:"100%",height:"60px"}}>
+</div>
 </React.Fragment>
 );
 }
