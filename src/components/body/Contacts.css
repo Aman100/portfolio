@@ -1,11 +1,5 @@
-.tableStyle {
-position:relative;
-top:10px;
-left:20px;
-font-size:20px;
-height:200px;
-border-collapse: collapse;
-border-spacing: 0;
-width: 90%;
-border: 1px solid #ddd;
+td:nth-child(1)
+{
+background:black;
+color:white;
 }

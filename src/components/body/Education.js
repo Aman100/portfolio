@@ -14,6 +14,7 @@ textDecoration:"underline"
 };
 return (
 <React.Fragment>
+<br/>
 <h1 style={mystyle}>Education</h1>
 <VerticalTimeline>
   <VerticalTimelineElement

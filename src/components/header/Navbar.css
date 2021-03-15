@@ -7,7 +7,7 @@ display:flex;
 justify-content:center;
 width:100%;
 height:80px;
-background: #242222;
+background: black;
 font-family: 'PT Sans', sans-serif;
 z-index:1;
 }
@@ -16,7 +16,7 @@ z-index:1;
 display:flex;
 width:90%;
 height:80px;
-background: #242222;
+background: black;
 align-items:center;
 }
 .ulstyle
@@ -51,7 +51,7 @@ justify-content:flex-end;
 }
 .nav-li
 {
-height:80px;
+height:100px;
 }
 .text
 {
@@ -65,10 +65,11 @@ display:none;
 
 @media screen and (max-width: 960px) {
   .ulstyle {
+    top:80px;
     display: flex;
     flex-direction: column;
     width: 100%;
-    height:270px;
+    height:300px;
     position: absolute;
     left: -100%;
     opacity: 1;
@@ -76,7 +77,7 @@ display:none;
     transition: all 0.5s ease;
   }
   .ulstyle.active {
-    background: #242222;
+    background: black;
     left: 0;
     opacity: 1;
     transition: all 0.5s ease;
