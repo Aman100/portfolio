@@ -14,7 +14,7 @@ return (
 <h1 style={mystyle}>Skills</h1>
 <br/><br/>
 <table className='table' border='1'>
-<tr><td>Languages</td><td>Java/J2EE, JavaScript, Bootstrap, JSP, Servlets, C, C++, Python</td></tr>
+<tr><td>Programming Skills</td><td>Java/J2EE, JavaScript, Bootstrap, JSP, Servlets, C, C++, Python</td></tr>
 <tr><td>Frameworks</td><td>SpringBoot, React</td></tr>
 <tr><td>Database</td><td>MySQL</td></tr>
 </table>
