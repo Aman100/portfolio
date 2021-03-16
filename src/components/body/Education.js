@@ -27,7 +27,7 @@ return (
   >
     <h3 className="vertical-timeline-element-title">Bachelor of Technology</h3>
     <p>
-CGPA – 7.03 upto 5th sem<br/>
+CGPA – 7.3 upto 6th sem<br/>
 Mahakal Institute of Technology
 </p>
   </VerticalTimelineElement>
