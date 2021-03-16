@@ -55,7 +55,7 @@ to find objects in scope.<br/>
   >
     <h3 className="vertical-timeline-element-title">HTTP Server in PYTHON –</h3>
     <p>
-• HTTP Server listens on specified port number for incoming request and send response back to client.<br/>
+• HTTP Server listens on user specified port number for incoming request and send response back to client.<br/>
 • It can serve HTML, CSS, JS, IMAGE FILE.<br/>
 • It can do SERVER-SIDE PROCESSING.<br/>
 • It can forward request to another page.<br/>
