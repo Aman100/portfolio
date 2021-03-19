@@ -17,7 +17,7 @@ return (
 <tr><td>Email</td><td>amanwarudkar1@gmail.com</td></tr>
 <tr><td>Mobile Number</td><td>+91-9109658601</td></tr>
 <tr><td>Github</td><td><a href='https://github.com/Aman100'>https://github.com/Aman100</a></td></tr>
-<tr><td>LinkedIn</td><td><a href='linkedin.com/in/aman-warudkar-06811b149'>linkedin.com/in/aman-warudkar-06811b149</a></td></tr>
+<tr><td>LinkedIn</td><td><a href='https://www.linkedin.com/in/aman-warudkar-06811b149'>https://www.linkedin.com/in/aman-warudkar-06811b149</a></td></tr>
 </table>
 </div>
 );
